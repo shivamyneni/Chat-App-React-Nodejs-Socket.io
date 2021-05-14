@@ -1,0 +1,29 @@
+@font-face {
+  font-family: product-sans;
+  src: url("../fonts/Product_sans/Product\ Sans\ Regular.ttf");
+}
+form {
+  display: flex;
+  flex: 1;
+  font-family: "Montserrat", sans-serif;
+}
+.msginput {
+  flex: 8;
+  border: white;
+  font-size: small;
+  border: none;
+  padding-left: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.msgbtn {
+  flex: 2;
+  font-size: small;
+  margin-left: 1px;
+  border: white;
+  height: 100%;
+  justify-content: flex-end;
+  background: #66a5ad;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}

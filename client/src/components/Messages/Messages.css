@@ -1,0 +1,7 @@
+.Scroll{
+    flex:8;
+    overflow: hidden;
+}
+.Scroll::-webkit-scrollbar{
+    display:none;
+}

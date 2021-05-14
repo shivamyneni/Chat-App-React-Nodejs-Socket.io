@@ -1,0 +1,32 @@
+@font-face {
+  font-family: product-sans;
+  src: url("../fonts/Product_sans/Product\ Sans\ Regular.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+.Infodiv {
+  display: flex;
+  align-items: center;
+  height: 10%;
+  width: 100%;
+  flex: 1;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  background: #66a5ad;
+}
+#online {
+  flex: 1;
+}
+#room {
+  color: #ffffff;
+  flex: 8;
+  font-size: small;
+  font-family: "Montserrat", sans-serif;
+}
+.close {
+  flex: 1;
+  justify-content: right;
+  justify-items: flex-end;
+  align-items: center;
+  align-content: center;
+}

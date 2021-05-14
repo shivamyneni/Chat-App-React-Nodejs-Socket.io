@@ -1,0 +1,29 @@
+@font-face {
+  font-family: product-sans;
+  src: url("../fonts/Product_sans/Product\ Sans\ Regular.ttf");
+}
+.Chatdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background: #f7f7f7;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+.Innerdiv {
+  font-family: "product-sans";
+  display: flex;
+  flex-direction: column;
+  background-color: #f9fbfc;
+  height: 50%;
+  width: 30%;
+  border-radius: 6px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+.send {
+  flex: 1;
+}

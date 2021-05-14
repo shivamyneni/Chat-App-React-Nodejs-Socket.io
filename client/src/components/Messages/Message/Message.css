@@ -1,0 +1,62 @@
+@font-face {
+  font-family: product-sans;
+  src: url("../../fonts/Product_sans/Product\ Sans\ Regular.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+#currentUser {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: smaller;
+  height: 60px;
+  padding-right: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+#AnotherUser {
+  display: flex;
+  align-items: center;
+  font-size: smaller;
+  height: 60px;
+  padding-left: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.curruser {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.Msg1 {
+  background: #c4dfe6;
+  display: flex;
+  width: auto;
+  font-size: x-small;
+  color: #003b46;
+  font-weight: bold;
+  align-items: center;
+  height: 50%;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 1em 0em 1em 1em;
+}
+.Anothuser {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.Msg2 {
+  border-radius: 0 1em 1em 1em;
+  font-size: x-small;
+  background: #003b46;
+  color: #ffffff;
+  align-content: center;
+  width: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  align-items: center;
+  height: 50%;
+}
+h5 {
+  font-family: "Poppins";
+}
