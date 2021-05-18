@@ -9,6 +9,7 @@
 - 👯 I’m looking for placement
 - 🥅 2021 Goals: To Make it more productive😁
 - ⚡ Fun fact: I love to watch anime👻
+- ⭐ If you like my work a 🌟 will be appreciated🤩
 
 <br />
 
